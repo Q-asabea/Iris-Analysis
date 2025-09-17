@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Iris-Analysis
 This project includes: Task 1: Data Cleaning and Preprocessing &amp; Task 2: Exploratory Data Analysis (EDA)
 =======
@@ -65,4 +64,3 @@ Sepal width however shows weak negative correlations with the other features esp
 - matplotlib
 - seaborn
 - Jupyter Notebook
->>>>>>> e9f62d1 (Initial commit: Iris dataset analysis)
