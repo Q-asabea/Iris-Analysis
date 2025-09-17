@@ -53,12 +53,12 @@ Petal length and petal width show a very strong positive correlation (0.96) mean
 Sepal length also has strong positive correlations with both petal length (0.87) and petal width (0.82) suggesting a general growth pattern across flower parts.
 Sepal width however shows weak negative correlations with the other features especially petal length (–0.42) and petal width (–0.36) indicating it behaves differently .
 
-### 🔍 Key Insights
+### Key Insights
 - Petal length and petal width are highly correlated (0.96)
 - Sepal width shows weak negative correlation with other features
 - Species differences are clearly visible in boxplots
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - pandas
 - matplotlib
